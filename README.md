@@ -21,7 +21,7 @@ This project focuses on clean UI design, layout structuring, and responsive styl
 - **HTML5** – Structure  
 - **CSS3** – Styling & Layout  
 
-No frameworks or libraries used.
+
 
 ---
 
