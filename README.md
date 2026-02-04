@@ -19,7 +19,9 @@ This project focuses on clean UI design, layout structuring, and responsive styl
 ## 🛠️ Tech Stack
 
 - **HTML5** – Structure  
-- **CSS3** – Styling & Layout  
+- **CSS3** – Styling & Layout
+- no framework used
+- 
 
 
 
